@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<head>
+<meta charset="utf-8">
+<title>TABELA</title>
+<style>
+body{
+margin: 0PX;
+padding: 0px;
+background-color: black;
+}
+table{
+color: white;
+text-align: center;
+}
+h1{
+text-align:center;
+}
+</style>
+</head>
+<body>
+
+
+<table border=1>
+<tr><td colspan=6><img src= "cabeçalho.png" width= "100%"></td></tr>
+<tr><td colspan=6><h1>Album Avengers</h1></td></tr>
+<tr><td rowspan=2 colspan=2><img src= "joias2.png" width="100%" ></td><td><img src= "capitao2.png" width= 90%></td><td><img src= "aranha.png"  width= 100% ></td><td><img src= "thor.png" width= 90% ></td><td><img src= "wanda2.png"  width= 100% ></td></tr>
+<tr><td><img src= "hulk.png"  width= 90% ><td><img src= "viuvaN.png" width= 100%  ></td><td><img src= "homemFerro2.png"  width= 90% ></td><td><img src= "pantera2.png"  width= "110%" ></td></tr>
+<tr><td><img src= "capita.png" width="65%"></td><td><img src= "arqueiro.png" width= 100% ></td><td><img src= "doutor.png" width= 95% ></td><td><img src= "homemF.png"  width="65%" ></td><td><img src= "niick.png"  width="65%" ></td><td><img src= "vision2.png" width="90%"  ></td></tr>
+<tr><td colspan=6><img src= "vg1.png" width= 80%></td></tr>
+
+
+
+</table
+</body>
+</html>
